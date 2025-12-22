@@ -1,51 +1,66 @@
-NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
-NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
-NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
-NOW体育3,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
-NOW体育4,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
-NOW体育5,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
-NOW体育6,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
-NOW体育7,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
-NOW体育4K1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
-NOW新闻,https://cdn.163189.xyz/163189/now
-NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
-NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
-NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
-#EXTINF:-1 tvg-id="410395" tvg-name="NOW体育" tvg-logo="https://epg.pw/media/images/epg/2025/01/29/20250129173707250196_66" group-title="Active",NOW体育 Prime
-http://a.ru8.dpdns.org/now/630/master.m3u8Now星影,http://rihou.cc:555/tv/[Hk]Now星影
-Now星影,http://rihou.cc:555/tv/[Mt]Now星影
-Now星影,http://rihou.cc:555/tv/[Bx]Now星影
-Now爆谷,http://rihou.cc:555/tv/[Hk]Now爆谷
-Now爆谷,http://rihou.cc:555/tv/[Mt]Now爆谷
-Now爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
+#EXTM3U
 
-Now财经,http://rihou.cc:555/tv/[Mt]Now财经
-Now直播,http://rihou.cc:555/tv/[Mt]Now直播
-Now英超,http://rihou.cc:555/tv/[XS]Now英超
-Now英超贰赏,http://rihou.cc:555/tv/[xsI]Now英超
-Now体育壹赏,http://rihou.cc:555/tv/[XS]Now体育
-Now体育,http://rihou.cc:555/tv/[Mt]Now体育
-纬来体育,http://rihou.cc:555/tv/[ST]纬来体育
-VIUTV'壹,http://rihou.cc:555/tv/[Mt]VIUTV壹
-VIUTV'贰,http://rihou.cc:555/tv/[Mt]VIUTV贰
-VIUTV'粤,http://rihou.cc:555/tv/[Mt]VIUTV粤
-VIUTV'粤,http://rihou.cc:555/tv/[Cx]VIUTV粤
-VIUTV'英,http://rihou.cc:555/tv/[Mt]VIUTV英
-RTHK-31,http://rihou.cc:555/tv/[Mt]RTHK-31
-RTHK-31,http://rihou.cc:555/tv/[Cx]RTHK-31
-RTHK-32,http://rihou.cc:555/tv/[Cx]RTHK-32
+############## NOW 体育 ##############
+#EXTINF:-1 tvg-name="NOW体育" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="NOW体育",NOW体育
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
 
-SPOTV-1FYtv,http://iptv.4666888.xyz/iptv2A.php?id=2
-SPOTV-2FYtv,http://iptv.4666888.xyz/iptv2A.php?id=1
-Football-FYtv,http://iptv.4666888.xyz/iptv2A.php?id=4
-Sports-3'FYtv,http://iptv.4666888.xyz/iptv2A.php?id=3
-http://rihou.cc:555/tv/[Mt]VIUTV贰
+#EXTINF:-1 tvg-name="NOW体育1" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="NOW体育",NOW体育1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
 
-Now体育 英超1,http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69854
-Now体育 英超2,http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69855
-Now体育 英超3,http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69856
-Now体育 英超4,http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69857
-Now体育 英超5,http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69858
-Now体育 英超6,http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69859
-Now体育 英超7,http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69860
-Now体育 英超8,http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69861
+#EXTINF:-1 tvg-name="NOW体育2" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="NOW体育",NOW体育2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
+
+#EXTINF:-1 tvg-name="NOW体育3" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="NOW体育",NOW体育3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
+
+#EXTINF:-1 tvg-name="NOW体育4" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="NOW体育",NOW体育4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
+
+#EXTINF:-1 tvg-name="NOW体育5" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="NOW体育",NOW体育5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
+
+#EXTINF:-1 tvg-name="NOW体育6" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="NOW体育",NOW体育6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
+
+#EXTINF:-1 tvg-name="NOW体育7" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="NOW体育",NOW体育7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
+
+#EXTINF:-1 tvg-name="NOW体育4K" tvg-logo="https://epg.pw/media/images/epg/now_sports_4k.png" group-title="NOW体育",NOW体育4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
+
+
+############## NOW 英超 ##############
+#EXTINF:-1 tvg-name="NOW英超1" tvg-logo="https://epg.pw/media/images/epg/now_epl.png" group-title="NOW英超",NOW英超1
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69854
+
+#EXTINF:-1 tvg-name="NOW英超2" tvg-logo="https://epg.pw/media/images/epg/now_epl.png" group-title="NOW英超",NOW英超2
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69855
+
+#EXTINF:-1 tvg-name="NOW英超3" tvg-logo="https://epg.pw/media/images/epg/now_epl.png" group-title="NOW英超",NOW英超3
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69856
+
+#EXTINF:-1 tvg-name="NOW英超4" tvg-logo="https://epg.pw/media/images/epg/now_epl.png" group-title="NOW英超",NOW英超4
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69857
+
+#EXTINF:-1 tvg-name="NOW英超5" tvg-logo="https://epg.pw/media/images/epg/now_epl.png" group-title="NOW英超",NOW英超5
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69858
+
+#EXTINF:-1 tvg-name="NOW英超6" tvg-logo="https://epg.pw/media/images/epg/now_epl.png" group-title="NOW英超",NOW英超6
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69859
+
+#EXTINF:-1 tvg-name="NOW英超7" tvg-logo="https://epg.pw/media/images/epg/now_epl.png" group-title="NOW英超",NOW英超7
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69860
+
+#EXTINF:-1 tvg-name="NOW英超8" tvg-logo="https://epg.pw/media/images/epg/now_epl.png" group-title="NOW英超",NOW英超8
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69861
+
+
+############## NOW 影视 / 资讯 ##############
+#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://epg.pw/media/images/epg/now_news.png" group-title="NOW频道",NOW新闻
+https://cdn.163189.xyz/163189/now
+
+#EXTINF:-1 tvg-name="NOW星影" tvg-logo="https://epg.pw/media/images/epg/now_movie.png" group-title="NOW频道",NOW星影
+http://23.237.228.133/live2/xingyingtai.m3u8
+
+#EXTINF:-1 tvg-name="NOW爆谷" tvg-logo="https://epg.pw/media/images/epg/now_movie.png" group-title="NOW频道",NOW爆谷
+http://23.237.228.133/live2/baogutai.m3u8
