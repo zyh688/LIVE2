@@ -1,11 +1,72 @@
-#EXTINF:-1 tvg-name="NOW体育" tvg-logo="https://epg.112114.xyz/logo/NOW体育.png" group-title="🇭🇰NOW体育",NOW体育
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts...
+#EXTM3U
 
-#EXTINF:-1 tvg-name="NOW体育1" tvg-logo="https://epg.112114.xyz/logo/NOW体育1.png" group-title="🇭🇰NOW体育",NOW体育1
-http://main.light-ott.net:80/play/live.php?mac=...
+############################
+###### 🇭🇰 NOW 体育 ######
+############################
 
-#EXTINF:-1 tvg-name="NOW英超1台" tvg-logo="https://epg.112114.xyz/logo/NOW英超1台.png" group-title="⚽NOW英超",NOW英超1台
-http://109.61.81.147:1935/cdn7/767/mpegts...
+#EXTINF:-1 tvg-name="NOW体育" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW体育.png" group-title="NOW体育",NOW体育
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
 
-#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://epg.112114.xyz/logo/NOW新闻.png" group-title="📰NOW新闻",NOW新闻
-https://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="NOW体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW体育.png" group-title="NOW体育",NOW体育1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
+
+#EXTINF:-1 tvg-name="NOW体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW体育.png" group-title="NOW体育",NOW体育2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
+
+#EXTINF:-1 tvg-name="NOW体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW体育.png" group-title="NOW体育",NOW体育3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
+
+#EXTINF:-1 tvg-name="NOW体育4" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW体育.png" group-title="NOW体育",NOW体育4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
+
+#EXTINF:-1 tvg-name="NOW体育5" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW体育.png" group-title="NOW体育",NOW体育5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
+
+#EXTINF:-1 tvg-name="NOW体育6" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW体育.png" group-title="NOW体育",NOW体育6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
+
+#EXTINF:-1 tvg-name="NOW体育7" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW体育.png" group-title="NOW体育",NOW体育7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
+
+#EXTINF:-1 tvg-name="NOW体育4K" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW体育.png" group-title="NOW体育",NOW体育4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
+
+
+############################
+###### ⚽ NOW 英超 ######
+############################
+
+#EXTINF:-1 tvg-name="NOW英超1台" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW英超.png" group-title="NOW英超",NOW英超1台
+http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+
+#EXTINF:-1 tvg-name="NOW英超1台" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW英超.png" group-title="NOW英超",NOW英超1台(备用)
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69854
+
+#EXTINF:-1 tvg-name="NOW英超2台" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW英超.png" group-title="NOW英超",NOW英超2台
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69855
+
+#EXTINF:-1 tvg-name="NOW英超3台" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW英超.png" group-title="NOW英超",NOW英超3台
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69856
+
+#EXTINF:-1 tvg-name="NOW英超4台" tvg-logo="http://epg.51zmt.top:8000/tb1/NOW英超.png" group-title="NOW英超",NOW英超4台
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69857
+
+
+############################
+###### 🏀 综合体育 ######
+############################
+
+#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="体育",CCTV5体育
+http://119.123.176.238:8086/hls/6/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010056_1626679604148_H32_1080.webp" group-title="体育",CCTV5+体育赛事
+http://119.123.176.238:8086/hls/252/index.m3u8
+
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="http://epg.51zmt.top:8000/tb1/纬来体育.png" group-title="体育",纬来体育
+http://rihou.cc:555/tv/[ST]纬来体育
+
+#EXTINF:-1 tvg-name="SPOTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/SPOTV.png" group-title="体育",SPOTV1
+http://iptv.4666888.xyz/iptv2A.php?id=2
+
+#EXTINF:-1 tvg-name="SPOTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/SPOTV.png" group-title="体育",SPOTV2
+http://iptv.4666888.xyz/iptv2A.php?id=1
