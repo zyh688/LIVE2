@@ -1,105 +1,11 @@
-#EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml.gz"
+#EXTINF:-1 tvg-name="NOW体育" tvg-logo="https://epg.112114.xyz/logo/NOW体育.png" group-title="🇭🇰NOW体育",NOW体育
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts...
 
-##################################################
-################ 🇭🇰 NOW 体育 ################
-##################################################
+#EXTINF:-1 tvg-name="NOW体育1" tvg-logo="https://epg.112114.xyz/logo/NOW体育1.png" group-title="🇭🇰NOW体育",NOW体育1
+http://main.light-ott.net:80/play/live.php?mac=...
 
-#EXTINF:-1 tvg-name="NOW体育" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="🇭🇰NOW体育",NOW体育
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
+#EXTINF:-1 tvg-name="NOW英超1台" tvg-logo="https://epg.112114.xyz/logo/NOW英超1台.png" group-title="⚽NOW英超",NOW英超1台
+http://109.61.81.147:1935/cdn7/767/mpegts...
 
-#EXTINF:-1 tvg-name="NOW体育1" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="🇭🇰NOW体育",NOW体育1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
-
-#EXTINF:-1 tvg-name="NOW体育2" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="🇭🇰NOW体育",NOW体育2
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
-
-#EXTINF:-1 tvg-name="NOW体育3" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="🇭🇰NOW体育",NOW体育3
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
-
-#EXTINF:-1 tvg-name="NOW体育4" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="🇭🇰NOW体育",NOW体育4
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
-
-#EXTINF:-1 tvg-name="NOW体育5" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="🇭🇰NOW体育",NOW体育5
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
-
-#EXTINF:-1 tvg-name="NOW体育6" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="🇭🇰NOW体育",NOW体育6
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
-
-#EXTINF:-1 tvg-name="NOW体育7" tvg-logo="https://epg.pw/media/images/epg/now_sports.png" group-title="🇭🇰NOW体育",NOW体育7
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
-
-#EXTINF:-1 tvg-name="NOW体育4K" tvg-logo="https://epg.pw/media/images/epg/now_sports_4k.png" group-title="🇭🇰NOW体育",NOW体育4K
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
-
-
-##################################################
-################ ⚽ NOW 英超 ################
-##################################################
-
-#EXTINF:-1 tvg-name="NOW英超1台" tvg-logo="https://epg.112114.xyz/logo/NOW英超1台.png" group-title="⚽NOW英超",NOW英超1台[英语]
-http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
-
-#EXTINF:-1 tvg-name="NOW英超1台" tvg-logo="https://epg.112114.xyz/logo/NOW英超1台.png" group-title="⚽NOW英超",NOW英超1台[粤语]
-http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
-
-#EXTINF:-1 tvg-name="NOW英超2台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/Now%20Sports%20英超2台.png" group-title="⚽NOW英超",NOW英超2台
-http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
-
-#EXTINF:-1 tvg-name="NOW英超3台" tvg-logo="https://raw.githubusercontent.com/luoluowoaini/CCTV4K-LOGO/main/Now%20Sports%20英超3台.png" group-title="⚽NOW英超",NOW英超3台
-http://lunar.pm:8080/melodyg/uQnLQnTkRj/117459
-
-
-##################################################
-################ 🎬 NOW 影视 ################
-##################################################
-
-#EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW星影台.png" group-title="🎬NOW影视",NOW爆谷台[芝加哥]
-http://23.237.228.133/live2/baogutai.m3u8
-
-#EXTINF:-1 tvg-name="NOW星影台" tvg-logo="https://epg.112114.xyz/logo/NOW星影台.png" group-title="🎬NOW影视",NOW星影台[芝加哥]
-http://23.237.228.133/live2/xingyingtai.m3u8
-
-#EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW星影台.png" group-title="🎬NOW影视",NOW爆谷台[HK]
-http://rihou.cc:555/tv/[Hk]Now爆谷
-
-#EXTINF:-1 tvg-name="NOW星影台" tvg-logo="https://epg.112114.xyz/logo/NOW星影台.png" group-title="🎬NOW影视",NOW星影台[BX]
-http://rihou.cc:555/tv/[Bx]Now星影
-
-
-##################################################
-################ 📰 NOW 新闻 ################
-##################################################
-
-#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="📰NOW新闻",NOW新闻台[官网]
-https://pccw-live-cdn-01.akamaized.net/Content/HLS_VOS1/Live/channel(VOS_CH332N)/index.m3u8
-
-#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="📰NOW新闻",NOW新闻[CDN]
+#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://epg.112114.xyz/logo/NOW新闻.png" group-title="📰NOW新闻",NOW新闻
 https://cdn.163189.xyz/163189/now
-
-
-##################################################
-################ 🇭🇰 HOY 电视 ################
-##################################################
-
-#EXTINF:-1 tvg-name="HOY 国际财经台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="🇭🇰HOY",HOY 国际财经 76
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="🇭🇰HOY",开电视 77
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-
-#EXTINF:-1 tvg-name="HOY 体育台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="🇭🇰HOY",HOY 体育台
-https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8
-
-
-##################################################
-################ 📺 CCTV 央视 ################
-##################################################
-
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="📺央视",CCTV1
-http://119.123.176.238:8086/hls/2/index.m3u8
-
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="📺央视",CCTV5
-http://119.123.176.238:8086/hls/6/index.m3u8
-
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="📺央视",CCTV5+
-http://119.123.176.238:8086/hls/252/index.m3u8
