@@ -1,123 +1,1373 @@
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视-辽宁地区",CCTV-1综合
-http://60.16.102.199:1111/rtp/232.0.0.27:1234
-#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视-辽宁地区",CCTV-2财经
-http://60.16.102.199:1111/rtp/232.0.0.135:1234
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视-辽宁地区",CCTV-3综艺
-http://60.16.102.199:1111/rtp/232.0.0.170:1234
-#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视-辽宁地区",CCTV-4国际
-http://60.16.102.199:1111/rtp/232.0.0.201:1234
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视-辽宁地区",CCTV-5体育
-http://60.16.102.199:1111/rtp/232.0.0.171:1234
-#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视-辽宁地区",CCTV-6电影
-http://60.16.102.199:1111/rtp/232.0.0.172:1234
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视-辽宁地区",CCTV-7国防军事
-http://60.16.102.199:1111/rtp/232.0.0.136:1234
-#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视-辽宁地区",CCTV-8电视剧
-http://60.16.102.199:1111/rtp/232.0.0.173:1234
-#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视-辽宁地区",CCTV-9纪录
-http://60.16.102.199:1111/rtp/232.0.0.137:1234
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视-辽宁地区",CCTV-10科教
-http://60.16.102.199:1111/rtp/232.0.0.138:1234
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视-辽宁地区",CCTV-11戏曲
-http://60.16.102.199:1111/rtp/232.0.0.178:1234
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视-辽宁地区",CCTV-12社会与法
-http://60.16.102.199:1111/rtp/232.0.0.139:1234
-#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视-辽宁地区",CCTV-13新闻
-http://60.16.102.199:1111/rtp/232.0.0.15:1234
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视-辽宁地区",CCTV-14少儿
-http://60.16.102.199:1111/rtp/232.0.0.140:1234
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视-辽宁地区",CCTV-15音乐
-http://60.16.102.199:1111/rtp/232.0.0.179:1234
-#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视-辽宁地区",CCTV-16奥林匹克
-http://60.16.102.199:1111/rtp/232.0.0.182:1234
-#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视-辽宁地区",CCTV-17农业农村
-http://60.16.102.199:1111/rtp/232.0.0.230:1234
-#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视-辽宁地区",CCTV5+体育赛事
-http://60.16.102.199:1111/rtp/232.0.0.93:1234
-#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://epg.v1.mk/logo/CGTN英语.png" group-title="央视-辽宁地区",CGTN-英语新闻
-http://60.16.102.199:1111/rtp/232.0.0.188:1234
-#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.v1.mk/logo/CGTN纪录.png" group-title="央视-辽宁地区",CGTN-纪录(国际版)
-http://60.16.102.199:1111/rtp/232.0.0.198:1234
-#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.v1.mk/logo/CGTN俄语.png" group-title="央视-辽宁地区",CGTN-俄语国际
-http://60.16.102.199:1111/rtp/232.0.0.28:1234
-#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://epg.v1.mk/logo/CGTN西班牙语.png" group-title="央视-辽宁地区",CGTN-西班牙语国际
-http://60.16.102.199:1111/rtp/232.0.0.6:1234
-#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.v1.mk/logo/CGTN阿拉伯语.png" group-title="央视-辽宁地区",CGTN-阿拉伯语国际
-http://60.16.102.199:1111/rtp/232.0.0.43:1234
-#EXTINF:-1,tvg-id="CGTN法语NEW" tvg-name="CGTN法语NEW" tvg-logo="https://epg.v1.mk/logo/CGTN法语NEW.png" group-title="央视-辽宁地区",CGTN-法语国际
-http://60.16.102.199:1111/rtp/232.0.0.8:1234
-
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="💰央视付费频道",文化精品
-http://124.116.183.146/rtp/239.111.205.75:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="💰央视付费频道",文化精品
-http://124.116.183.146/rtp/239.111.205.75:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="💰央视付费频道",央视台球
-http://183.11.239.36:808/hls/73/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="💰央视付费频道",风云音乐
-http://sh.lnott.top:880/dx73.m3u8$订阅源
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="💰央视付费频道",风云音乐
-http://124.116.183.146/rtp/239.111.205.69:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="💰央视付费频道",风云音乐
-http://120.238.94.10:9901/tsfile/live/1089_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="💰央视付费频道",风云音乐
-http://124.116.183.146/rtp/239.111.205.69:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="💰央视付费频道",第一剧场
-http://124.116.183.146/rtp/239.111.205.65:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="💰央视付费频道",第一剧场
-http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="💰央视付费频道",第一剧场
-http://124.116.183.146/rtp/239.111.205.65:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="💰央视付费频道",风云剧场
-http://sh.lnott.top:880/dx94.m3u8$订阅源
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="💰央视付费频道",风云剧场
-http://124.116.183.146/rtp/239.111.205.66:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="💰央视付费频道",风云剧场
-http://120.238.94.10:9901/tsfile/live/1090_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="💰央视付费频道",风云剧场
-http://124.116.183.146/rtp/239.111.205.66:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
-http://sh.lnott.top:880/dx95.m3u8$订阅源
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
-http://124.116.183.146/rtp/239.111.205.67:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
-http://61.184.46.85:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
-http://124.116.183.146/rtp/239.111.205.67:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="💰央视付费频道",女性时尚
-http://124.116.183.146/rtp/239.111.205.72:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="💰央视付费频道",女性时尚
-http://124.116.183.146/rtp/239.111.205.72:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="💰央视付费频道",高尔夫网球
-http://124.116.183.146/rtp/239.111.205.73:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="💰央视付费频道",高尔夫网球
-http://124.116.183.146/rtp/239.111.205.73:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="💰央视付费频道",风云足球
-http://124.116.183.146/rtp/239.111.205.68:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="💰央视付费频道",风云足球
-http://61.184.46.85:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="💰央视付费频道",风云足球
-http://183.11.239.36:808/hls/133/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="💰央视付费频道",风云足球
-http://124.116.183.146/rtp/239.111.205.68:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/世界地理.png" group-title="💰央视付费频道",世界地理
-http://124.116.183.146/rtp/239.111.205.71:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/世界地理.png" group-title="💰央视付费频道",世界地理
-http://183.11.239.36:808/hls/11/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/世界地理.png" group-title="💰央视付费频道",世界地理
-http://dassby.qqff.top:99/live/世界地理/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/世界地理.png" group-title="💰央视付费频道",世界地理
-http://dassby.qqff.top:99/live/世界地理/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/世界地理.png" group-title="💰央视付费频道",世界地理
-http://124.116.183.146/rtp/239.111.205.71:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="💰央视付费频道",兵器科技
-http://sh.lnott.top:880/dx81.m3u8$订阅源
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="💰央视付费频道",兵器科技
-http://124.116.183.146/rtp/239.111.205.74:5140$陕西电信组播源-cache:124.116.183.146-组播源
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="💰央视付费频道",兵器科技
-http://120.238.94.10:9901/tsfile/live/1096_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="💰央视付费频道",兵器科技
-http://124.116.183.146/rtp/239.111.205.74:5140$陕西电信组播源-cache:124.116.183.146-组播源
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.27:1234
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://139.214.176.195:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+https://migu.188766.xyz/?migutoken=684e5d8755dfff091a7fa0f341d03cae&id=CCTV1&type=yy
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://lihetl.com:9527/rtp/232.0.0.27:8808
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://www.lihetl.com:9527/rtp/232.0.0.27:8808
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.27:8808
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.178:5540
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.20:5540
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.254:5540
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.8:5540
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+https://migu.188766.xyz/?migutoken=f26f6a915e2c9b60722636e99764e3ac&id=CCTV1&type=yy
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://175.170.46.69:8099/rtp/232.0.0.27:8808
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.27:8808
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://111.26.72.89:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+https://migu.188766.xyz/?migutoken=6ad1cce6b6613cf0459fe057b4e2d913&id=CCTV1&type=yy
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+https://migu.188766.xyz/?migutoken=984914a091dcf1df7ffe92b6f4156353&id=CCTV1&type=yy
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://113.234.20.239:4000/rtp/232.0.0.27:8808
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://iptv.ayemovie.top:5555/rtp/232.0.0.27:8808
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://139.214.176.208:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://119.113.230.107:4000/rtp/232.0.0.27:8808
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+https://migu.188766.xyz/?migutoken=34fceb5aa88f5d05440eaccf157a7faf&id=CCTV1&type=yy
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+http://139.214.176.73:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+https://migu.188766.xyz/?migutoken=635166baa1d9fb1720891b8c4e01e1bf&id=CCTV1&type=yy
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+https://migu.188766.xyz/?migutoken=12f45bef7af527917f511f5195f230be&id=CCTV1&type=yy
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://tu.dzpp.uk/tv/CCTV1.png" group-title="央视辽宁",CCTV-1综合
+https://migu.188766.xyz/?migutoken=d91ac2545a1c12b827c53a304a004659&id=CCTV1&type=yy
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.135:1234
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://139.214.176.195:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+https://migu.188766.xyz/?migutoken=f1e72730b75b8bb1a740c688d5700175&id=CCTV2&type=yy
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://lihetl.com:9527/rtp/232.0.0.132:9144
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://www.lihetl.com:9527/rtp/232.0.0.132:9144
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.132:9144
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.21:5540
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.3:5540
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+https://migu.188766.xyz/?migutoken=3138a4ce3cde8f6ae6b78f6d760b6eac&id=CCTV2&type=yy
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://175.170.46.69:8099/rtp/232.0.0.132:9144
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.132:9144
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://111.26.72.89:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+https://migu.188766.xyz/?migutoken=6ca1f944306bdfb4e6bd059e893d6d09&id=CCTV2&type=yy
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+https://migu.188766.xyz/?migutoken=c89d97eb90a082cfaa628671d1d5e45b&id=CCTV2&type=yy
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://113.234.20.239:4000/rtp/232.0.0.132:9144
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://iptv.ayemovie.top:5555/rtp/232.0.0.132:9144
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://139.214.176.208:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://119.113.230.107:4000/rtp/232.0.0.132:9144
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+https://migu.188766.xyz/?migutoken=21f3dd6041a86a10cc5de10493528a96&id=CCTV2&type=yy
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+http://139.214.176.73:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+https://migu.188766.xyz/?migutoken=c1ab3ac2bdd96afcd24d14b2f81db935&id=CCTV2&type=yy
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+https://migu.188766.xyz/?migutoken=960bb4f4dae6a420b48ae0f0bd61150f&id=CCTV2&type=yy
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://tu.dzpp.uk/tv/CCTV2.png" group-title="央视辽宁",CCTV-2财经
+https://migu.188766.xyz/?migutoken=3cd1d079b235a4e0177e453bd590a968&id=CCTV2&type=yy
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.170:1234
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://139.214.176.195:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+https://migu.188766.xyz/?migutoken=d39bcac20abb7132f559fbf450ccb7bc&id=CCTV3&type=yy
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://lihetl.com:9527/rtp/232.0.0.198:9214
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://www.lihetl.com:9527/rtp/232.0.0.198:9214
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.198:9214
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.231:5540
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+https://migu.188766.xyz/?migutoken=b5d1064d07538727ec6f233c562dd7fd&id=CCTV3&type=yy
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://175.170.46.69:8099/rtp/232.0.0.198:9214
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.198:9214
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://111.26.72.89:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+https://migu.188766.xyz/?migutoken=f6c0c58814970826538e85735cfb641a&id=CCTV3&type=yy
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+https://migu.188766.xyz/?migutoken=6f36861ad28db8b87bcf796821ebcdda&id=CCTV3&type=yy
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://113.234.20.239:4000/rtp/232.0.0.198:9214
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://iptv.ayemovie.top:5555/rtp/232.0.0.198:9214
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://139.214.176.208:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://119.113.230.107:4000/rtp/232.0.0.198:9214
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+https://migu.188766.xyz/?migutoken=5bbeb35d964f4c7b6a5126ffd7659ac5&id=CCTV3&type=yy
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+http://139.214.176.73:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+https://migu.188766.xyz/?migutoken=aa9cf6475bb176ba1aa23d6f9cf8eac0&id=CCTV3&type=yy
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+https://migu.188766.xyz/?migutoken=b572cd4ce92a469b589fbad53b39459b&id=CCTV3&type=yy
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://tu.dzpp.uk/tv/CCTV3.png" group-title="央视辽宁",CCTV-3综艺
+https://migu.188766.xyz/?migutoken=e990f651d2f129c38ff33716affa1eca&id=CCTV3&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.201:1234
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+http://139.214.176.195:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=2096739dbf5947d3ea1058acabdb84af&id=CCTV4&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=ad36a5dc16f6be56073ce94b64aa2e04&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=34349146661e2af69045cf99605da17c&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+http://lihetl.com:9527/rtp/232.0.0.148:9142
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+http://www.lihetl.com:9527/rtp/232.0.0.148:9142
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.148:9142
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=cda681198f00e7ca10ca8e318a9f2ae8&id=CCTV4&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=bbfc5c4fc7713f8d8b913569814fd0c5&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=3cb0c706ac93167a9db15aabc74b4503&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+http://175.170.46.69:8099/rtp/232.0.0.148:9142
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.148:9142
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+http://111.26.72.89:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=d5cca09f865538d64bf1d7003365235a&id=CCTV4&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=8308c6c1922026af8562edf0ddfc2b76&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=640720bb6e1856c9b2df32c4619d5862&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=4badae08a83e929aa53e93897c21d637&id=CCTV4&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=aae8d58dfe295f9595d40d9c612a7880&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=17add4d91660b2e0763463959577e995&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+http://113.234.20.239:4000/rtp/232.0.0.148:9142
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+http://iptv.ayemovie.top:5555/rtp/232.0.0.148:9142
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+http://139.214.176.208:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+http://119.113.230.107:4000/rtp/232.0.0.148:9142
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=45a7eadb701a060a02730ab0ce51b635&id=CCTV4&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=235ff06b8e917138cb00120ef271172a&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=3b3042841a083d5470ca222bce1d66c3&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+http://139.214.176.73:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=86ce256c70d06486281d1c8b774fc0ae&id=CCTV4&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=5f864dca9bdfe8d87f0c5d034c6d5bd6&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=8b3d7de10de044e07603c32079c9890c&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=e181429aa35be31503ae711a024faf64&id=CCTV4&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=20174757859f3acd1bb1f2a383235571&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=277eea70169602ea8ab8728dfad09980&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=fd3e9db5d50b3d22829202f477a7de88&id=CCTV4&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=8726e01da0c0826f2cc56d403bc54285&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://tu.dzpp.uk/tv/CCTV4.png" group-title="央视辽宁",CCTV-4国际
+https://migu.188766.xyz/?migutoken=e031abbfdde4d5022bbdfb33a83f31ec&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.171:1234
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://139.214.176.195:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://139.214.176.195:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=e81bfc1129aa49af56c1a7e1f8810266&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=ee1a1f0d7fd09a784b3f7fa78942884b&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://lihetl.com:9527/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://www.lihetl.com:9527/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://lihetl.com:9527/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://www.lihetl.com:9527/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://rihou.cc:555/tv/[mg]CCTV-5p
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://go.bkpcp.top/mg/cctv5p
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://j.s.bkpcp.top/jj/cctv5p
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://t.061899.xyz/tl/tl.php?id=cctv5p
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://smt.go-iptv.ggff.net/smart.php?id=cctv5plus&token=Goiptv
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://zb.hpc.tw/smtv.php?id=cctv5plus
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.232:5540
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.121:5540
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=e45ef9e248325298eeaa19ff57301a94&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=4cb8ba0277fed5e59d7bbf6992ec0c00&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://175.170.46.69:8099/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://175.170.46.69:8099/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://111.26.72.89:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://111.26.72.89:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=3f3af04787056da1a6b1863120a95171&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=bbf3aa23ecdd29ac5a1fb66e31edb6bc&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=d571113f2b9daa02ca501bc2bba37c24&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=4a169c212039ec372ac031a550589930&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://113.234.20.239:4000/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://iptv.ayemovie.top:5555/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://113.234.20.239:4000/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://iptv.ayemovie.top:5555/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://139.214.176.208:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://139.214.176.208:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://119.113.230.107:4000/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://119.113.230.107:4000/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=320878979ac25ea16b8bf841b9e8c408&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=2cc22d3d6cbb518bda1fa0511b52a38e&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://139.214.176.73:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+http://139.214.176.73:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=6da9dd3c7d37210f738039f7b8434453&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=e0e465fd676646c4e33a92a77e7f7e81&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=015dac1ba88c65f57a7a9d1c8b707372&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=5594c13771eda0047e0b8d0c0921bc69&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://live.catvod.com/live.php?id=cctv5plus
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=0b3886af850071a8162f53ed77831b88&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://tu.dzpp.uk/tv/CCTV5.png" group-title="央视辽宁",CCTV-5体育
+https://migu.188766.xyz/?migutoken=67736b223a5b665d69afb10857ac5363&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.172:1234
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://139.214.176.195:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+https://migu.188766.xyz/?migutoken=a7cf963780fc4918f32fc6c499278982&id=CCTV6&type=yy
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://lihetl.com:9527/rtp/232.0.0.194:9206
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://www.lihetl.com:9527/rtp/232.0.0.194:9206
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.194:9206
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.233:5540
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+https://migu.188766.xyz/?migutoken=50a0a24e5d42b0b9589317e3071d1f87&id=CCTV6&type=yy
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://175.170.46.69:8099/rtp/232.0.0.194:9206
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.194:9206
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://111.26.72.89:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+https://migu.188766.xyz/?migutoken=2e2d814feafd6a76420245cde8b6b2c0&id=CCTV6&type=yy
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+https://migu.188766.xyz/?migutoken=83e4845864a0605dd21abbd28fa1b2bf&id=CCTV6&type=yy
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://113.234.20.239:4000/rtp/232.0.0.194:9206
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://iptv.ayemovie.top:5555/rtp/232.0.0.194:9206
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://139.214.176.208:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://119.113.230.107:4000/rtp/232.0.0.194:9206
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+https://migu.188766.xyz/?migutoken=9e2535be05f3d0c9fbb29dc16b71a378&id=CCTV6&type=yy
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+http://139.214.176.73:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+https://migu.188766.xyz/?migutoken=2210be5dade91b0e3a6a709ad29b3e5d&id=CCTV6&type=yy
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+https://migu.188766.xyz/?migutoken=6302215fa79195ba9d17e45f6deedb2a&id=CCTV6&type=yy
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://tu.dzpp.uk/tv/CCTV6.png" group-title="央视辽宁",CCTV-6电影
+https://migu.188766.xyz/?migutoken=3d967aee167bf303f1d47f287e529105&id=CCTV6&type=yy
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.136:1234
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://139.214.176.195:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+https://migu.188766.xyz/?migutoken=7b72ffcc3b9a6a866a82d8b61439c815&id=CCTV7&type=yy
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://lihetl.com:9527/rtp/232.0.0.133:9146
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://www.lihetl.com:9527/rtp/232.0.0.133:9146
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.133:9146
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.2:5540
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.84:5540
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+https://migu.188766.xyz/?migutoken=4664373079840124929ab68ebf2c29df&id=CCTV7&type=yy
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://175.170.46.69:8099/rtp/232.0.0.133:9146
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.133:9146
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://111.26.72.89:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+https://migu.188766.xyz/?migutoken=66067d34e2c860e93c2bc43a47aac0ed&id=CCTV7&type=yy
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+https://migu.188766.xyz/?migutoken=0ec1efae43a68c8a3e18da05f1dd2acf&id=CCTV7&type=yy
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://113.234.20.239:4000/rtp/232.0.0.133:9146
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://iptv.ayemovie.top:5555/rtp/232.0.0.133:9146
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://139.214.176.208:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://119.113.230.107:4000/rtp/232.0.0.133:9146
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+https://migu.188766.xyz/?migutoken=488bd303b4e8bdcb8ba6c946a08049d0&id=CCTV7&type=yy
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+http://139.214.176.73:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+https://migu.188766.xyz/?migutoken=8ee27a1a7b64b54355bb0fc57db2633d&id=CCTV7&type=yy
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+https://migu.188766.xyz/?migutoken=bc3b848a60c573a96f41d935421fc373&id=CCTV7&type=yy
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://tu.dzpp.uk/tv/CCTV7.png" group-title="央视辽宁",CCTV-7国防军事
+https://migu.188766.xyz/?migutoken=fc0845ff2f5a0c9ca3f89188024e7e56&id=CCTV7&type=yy
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.173:1234
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://139.214.176.195:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+https://migu.188766.xyz/?migutoken=60108dcdf3fa980a4e5439a68e1ee35c&id=CCTV8&type=yy
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://lihetl.com:9527/rtp/232.0.0.28:8710
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://www.lihetl.com:9527/rtp/232.0.0.28:8710
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.28:8710
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.234:5540
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+https://migu.188766.xyz/?migutoken=e2f6c7dc115b792174595823b2e7a7f1&id=CCTV8&type=yy
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://175.170.46.69:8099/rtp/232.0.0.28:8710
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.28:8710
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://111.26.72.89:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+https://migu.188766.xyz/?migutoken=924bd4d20a89eae22fb75fa1f12c8b4d&id=CCTV8&type=yy
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+https://migu.188766.xyz/?migutoken=8be830e6c1bd316a81ac34c888809100&id=CCTV8&type=yy
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://113.234.20.239:4000/rtp/232.0.0.28:8710
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://iptv.ayemovie.top:5555/rtp/232.0.0.28:8710
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://139.214.176.208:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://119.113.230.107:4000/rtp/232.0.0.28:8710
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+https://migu.188766.xyz/?migutoken=0022a436a8db5d10dc9c4e1faa87ab8d&id=CCTV8&type=yy
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+http://139.214.176.73:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+https://migu.188766.xyz/?migutoken=152c01109040c30ae90c98217f187466&id=CCTV8&type=yy
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+https://migu.188766.xyz/?migutoken=8c219eb083d559854524d795a9b52389&id=CCTV8&type=yy
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://tu.dzpp.uk/tv/CCTV8.png" group-title="央视辽宁",CCTV-8电视剧
+https://migu.188766.xyz/?migutoken=d3b89dce0593cb520244ce119372eb19&id=CCTV8&type=yy
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.137:1234
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://139.214.176.195:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+https://migu.188766.xyz/?migutoken=a765ba06bf148280c89a3cf9ccb8b373&id=CCTV9&type=yy
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://lihetl.com:9527/rtp/232.0.0.134:9148
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://www.lihetl.com:9527/rtp/232.0.0.134:9148
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.134:9148
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.1:5540
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+https://migu.188766.xyz/?migutoken=cd17eb6de03ff3767341b78292801ac7&id=CCTV9&type=yy
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://175.170.46.69:8099/rtp/232.0.0.134:9148
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.134:9148
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://111.26.72.89:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+https://migu.188766.xyz/?migutoken=b2ee40d6178c03089db9a0ea1af820b9&id=CCTV9&type=yy
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+https://migu.188766.xyz/?migutoken=39f5d785425973838f4bd08db78c66b3&id=CCTV9&type=yy
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://113.234.20.239:4000/rtp/232.0.0.134:9148
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://iptv.ayemovie.top:5555/rtp/232.0.0.134:9148
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://139.214.176.208:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://119.113.230.107:4000/rtp/232.0.0.134:9148
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+https://migu.188766.xyz/?migutoken=0fa25ae5d4a7ea6e74211d0bc26ce7b4&id=CCTV9&type=yy
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+http://139.214.176.73:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+https://migu.188766.xyz/?migutoken=39d30bdfcb53b7b8ad1d386a806d4ad9&id=CCTV9&type=yy
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+https://migu.188766.xyz/?migutoken=df17b6caa83a3527488df3b092e1f959&id=CCTV9&type=yy
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://tu.dzpp.uk/tv/CCTV9.png" group-title="央视辽宁",CCTV-9纪录
+https://migu.188766.xyz/?migutoken=2ca68161ae823be00665db2a76eea016&id=CCTV9&type=yy
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.138:1234
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://139.214.176.195:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+https://migu.188766.xyz/?migutoken=3740bbd435b9f3fcfcd3d913f11a924a&id=CCTV10&type=yy
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://lihetl.com:9527/rtp/232.0.0.135:9150
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://www.lihetl.com:9527/rtp/232.0.0.135:9150
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.135:9150
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://rihou.cc:555/tv/[mg]CCTV-10
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://go.bkpcp.top/mg/cctv10
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://j.s.bkpcp.top/jj/cctv10
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://t.061899.xyz/tl/tl.php?id=cctv10
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+https://smt.go-iptv.ggff.net/smart.php?id=cctv10hd&token=Goiptv
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://zb.hpc.tw/smtv.php?id=cctv10hd
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://tvtj.jxwltx.com:8003/cctv10.m3u8
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.7:5540
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+https://migu.188766.xyz/?migutoken=9abfe2aa0d0550332f0abb4f84c5106b&id=CCTV10&type=yy
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://175.170.46.69:8099/rtp/232.0.0.135:9150
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.135:9150
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://111.26.72.89:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+https://migu.188766.xyz/?migutoken=16884ff4fd95dbab302a3d0c8a3f5c64&id=CCTV10&type=yy
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+https://migu.188766.xyz/?migutoken=6991daf2f4ed0ae990762eddf211c2f2&id=CCTV10&type=yy
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://113.234.20.239:4000/rtp/232.0.0.135:9150
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://iptv.ayemovie.top:5555/rtp/232.0.0.135:9150
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://139.214.176.208:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://119.113.230.107:4000/rtp/232.0.0.135:9150
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+https://migu.188766.xyz/?migutoken=d41a8f78551b190f43c49712c0b478b1&id=CCTV10&type=yy
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+http://139.214.176.73:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+https://migu.188766.xyz/?migutoken=11910a49b78457d30f49d41977140800&id=CCTV10&type=yy
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+https://migu.188766.xyz/?migutoken=52db7d2641e1ede637b63c25ef599ee7&id=CCTV10&type=yy
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+https://live.catvod.com/live.php?id=cctv10hd
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://tu.dzpp.uk/tv/CCTV10.png" group-title="央视辽宁",CCTV-10科教
+https://migu.188766.xyz/?migutoken=7b9a1e4a315ef06b5f8b77eff7f1a210&id=CCTV10&type=yy
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.178:1234
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+http://139.214.176.195:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+https://migu.188766.xyz/?migutoken=c746934b1aecb42991b0532f7b497638&id=CCTV11&type=yy
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+http://rihou.cc:555/tv/[mg]CCTV-11
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+http://go.bkpcp.top/mg/cctv11
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+http://j.s.bkpcp.top/jj/cctv11
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+http://t.061899.xyz/tl/tl.php?id=cctv11
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+https://smt.go-iptv.ggff.net/smart.php?id=cctv11&token=Goiptv
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+http://zb.hpc.tw/smtv.php?id=cctv11
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+http://tvtj.jxwltx.com:8003/cctv11.m3u8
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.227:5540
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+https://migu.188766.xyz/?migutoken=cc5ca00e927603cc9d04531fc216716c&id=CCTV11&type=yy
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+http://111.26.72.89:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+https://migu.188766.xyz/?migutoken=4f1674ecb8cf83b89139571ab78212b3&id=CCTV11&type=yy
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+https://migu.188766.xyz/?migutoken=0e50c6b799b8a771ecf579ea0d7a04f0&id=CCTV11&type=yy
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+http://139.214.176.208:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+https://migu.188766.xyz/?migutoken=d627f213e505421fdf50261c2ac14f86&id=CCTV11&type=yy
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+http://139.214.176.73:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+https://migu.188766.xyz/?migutoken=6c3757274a2f75c78e4738243726a6a1&id=CCTV11&type=yy
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+https://migu.188766.xyz/?migutoken=45ff78d9262d7a8917b78b88be921b98&id=CCTV11&type=yy
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+https://live.catvod.com/live.php?id=cctv11
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://tu.dzpp.uk/tv/CCTV11.png" group-title="央视辽宁",CCTV-11戏曲
+https://migu.188766.xyz/?migutoken=1b8adfdeda344c5703c2054fc613060d&id=CCTV11&type=yy
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.139:1234
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://139.214.176.195:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+https://migu.188766.xyz/?migutoken=67ef91f3325193306ca96bfe36d1c01e&id=CCTV12&type=yy
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://lihetl.com:9527/rtp/232.0.0.136:9152
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://www.lihetl.com:9527/rtp/232.0.0.136:9152
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.136:9152
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://rihou.cc:555/tv/[mg]CCTV-12
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://go.bkpcp.top/mg/cctv12
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://j.s.bkpcp.top/jj/cctv12
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://t.061899.xyz/tl/tl.php?id=cctv12
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+https://smt.go-iptv.ggff.net/smart.php?id=cctv12&token=Goiptv
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://zb.hpc.tw/smtv.php?id=cctv12
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://tvtj.jxwltx.com:8003/cctv12.m3u8
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.6:5540
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+https://migu.188766.xyz/?migutoken=6ceada60134abae75e77132ef95209e4&id=CCTV12&type=yy
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://175.170.46.69:8099/rtp/232.0.0.136:9152
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.136:9152
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://111.26.72.89:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+https://migu.188766.xyz/?migutoken=74f4c1b7c36df72a629760e95644694d&id=CCTV12&type=yy
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+https://migu.188766.xyz/?migutoken=30411a352f65a7116cd1ee681820ba1a&id=CCTV12&type=yy
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://113.234.20.239:4000/rtp/232.0.0.136:9152
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://iptv.ayemovie.top:5555/rtp/232.0.0.136:9152
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://139.214.176.208:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://119.113.230.107:4000/rtp/232.0.0.136:9152
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+https://migu.188766.xyz/?migutoken=18aa44a84df943ee10de279d208526a7&id=CCTV12&type=yy
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+http://139.214.176.73:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+https://migu.188766.xyz/?migutoken=61900f31e352fac81a8065df04ba61ee&id=CCTV12&type=yy
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+https://migu.188766.xyz/?migutoken=fb042a07852e2ec23b4c15cfb5b93006&id=CCTV12&type=yy
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+https://live.catvod.com/live.php?id=cctv12
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://tu.dzpp.uk/tv/CCTV12.png" group-title="央视辽宁",CCTV-12社会与法
+https://migu.188766.xyz/?migutoken=8f2ed6528837227bdc8b9ea41c1f3e45&id=CCTV12&type=yy
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.15:1234
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://139.214.176.195:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+https://migu.188766.xyz/?migutoken=3d580d9995226537843048f72b8e86fc&id=CCTV13&type=yy
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://lihetl.com:9527/rtp/232.0.0.146:9112
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://www.lihetl.com:9527/rtp/232.0.0.146:9112
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.146:9112
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://rihou.cc:555/tv/[mg]CCTV-13
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://go.bkpcp.top/mg/cctv13
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://j.s.bkpcp.top/jj/cctv13
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://t.061899.xyz/tl/tl.php?id=cctv13
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://iptv.4666888.xyz/iptv2A.php?id=11
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+https://smt.go-iptv.ggff.net/smart.php?id=cctv13&token=Goiptv
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://zb.hpc.tw/smtv.php?id=cctv13
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://tvtj.jxwltx.com:8003/cctv13.m3u8
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.150:5540
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+https://migu.188766.xyz/?migutoken=19469068871ea952d7eec108c27a6123&id=CCTV13&type=yy
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://175.170.46.69:8099/rtp/232.0.0.146:9112
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.146:9112
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://111.26.72.89:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+https://migu.188766.xyz/?migutoken=2374424a1c2337269c61686595796788&id=CCTV13&type=yy
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+https://migu.188766.xyz/?migutoken=586a1549a1d60b3c0d5fa7306a28a4c8&id=CCTV13&type=yy
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://113.234.20.239:4000/rtp/232.0.0.146:9112
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://iptv.ayemovie.top:5555/rtp/232.0.0.146:9112
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://139.214.176.208:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://119.113.230.107:4000/rtp/232.0.0.146:9112
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+https://migu.188766.xyz/?migutoken=3c083b6cea857f7e14261d24ede66057&id=CCTV13&type=yy
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+http://139.214.176.73:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+https://migu.188766.xyz/?migutoken=ae276ff79a7e43ad90f147a0d566a3e9&id=CCTV13&type=yy
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+https://migu.188766.xyz/?migutoken=f6f596485c42e38c9eb1fbf73bf35328&id=CCTV13&type=yy
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+https://live.catvod.com/live.php?id=cctv13
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://tu.dzpp.uk/tv/CCTV13.png" group-title="央视辽宁",CCTV-13新闻
+https://migu.188766.xyz/?migutoken=a07aeb14ac224d7e61744d61e16b77aa&id=CCTV13&type=yy
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.140:1234
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://139.214.176.195:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+https://migu.188766.xyz/?migutoken=2e247275f806f24ec5b9338d760d64db&id=CCTV14&type=yy
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://lihetl.com:9527/rtp/232.0.0.137:9154
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://www.lihetl.com:9527/rtp/232.0.0.137:9154
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.137:9154
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://rihou.cc:555/tv/[mg]CCTV-14
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://go.bkpcp.top/mg/cctv14
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://j.s.bkpcp.top/jj/cctv14
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://t.061899.xyz/tl/tl.php?id=cctv14
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://iptv.4666888.xyz/iptv2A.php?id=12
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+https://smt.go-iptv.ggff.net/smart.php?id=cctv14&token=Goiptv
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://zb.hpc.tw/smtv.php?id=cctv14
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://tvtj.jxwltx.com:8003/cctv14.m3u8
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.5:5540
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+https://migu.188766.xyz/?migutoken=2ca05c6d7e2bb2aef5296e3542debda9&id=CCTV14&type=yy
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://175.170.46.69:8099/rtp/232.0.0.137:9154
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.137:9154
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://111.26.72.89:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+https://migu.188766.xyz/?migutoken=18aa14dc332fb93b1e1b95ac0776fe1b&id=CCTV14&type=yy
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+https://migu.188766.xyz/?migutoken=01930823e3f557c9544dbcd09338d76e&id=CCTV14&type=yy
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://113.234.20.239:4000/rtp/232.0.0.137:9154
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://iptv.ayemovie.top:5555/rtp/232.0.0.137:9154
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://139.214.176.208:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://119.113.230.107:4000/rtp/232.0.0.137:9154
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+https://migu.188766.xyz/?migutoken=b85c9df656dfa0c42de0f1cae6594fc6&id=CCTV14&type=yy
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+http://139.214.176.73:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+https://migu.188766.xyz/?migutoken=9ffa6cbd1f17932c3c9bbe5464125780&id=CCTV14&type=yy
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+https://migu.188766.xyz/?migutoken=5c0b003181e61d05631cba9a66982125&id=CCTV14&type=yy
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+https://live.catvod.com/live.php?id=cctv14
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://tu.dzpp.uk/tv/CCTV14.png" group-title="央视辽宁",CCTV-14少儿
+https://migu.188766.xyz/?migutoken=11190fea39c4d916824dc79d77e71389&id=CCTV14&type=yy
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.179:1234
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+http://139.214.176.195:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+https://migu.188766.xyz/?migutoken=c91b23f3c500b9a5943d32b340e8cc5d&id=CCTV15&type=yy
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+http://rihou.cc:555/tv/[mg]CCTV-15
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+http://go.bkpcp.top/mg/cctv15
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+http://j.s.bkpcp.top/jj/cctv15
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+http://t.061899.xyz/tl/tl.php?id=cctv15
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+https://smt.go-iptv.ggff.net/smart.php?id=cctv15&token=Goiptv
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+http://zb.hpc.tw/smtv.php?id=cctv15
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+http://tvtj.jxwltx.com:8003/cctv15.m3u8
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+https://migu.188766.xyz/?migutoken=93c37a7aee624c212c361d4f444622ff&id=CCTV15&type=yy
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+http://111.26.72.89:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+https://migu.188766.xyz/?migutoken=a2602242c34ba8b348c14dd547b64215&id=CCTV15&type=yy
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+https://migu.188766.xyz/?migutoken=b866c9332134700c1c55178e2eac5c2b&id=CCTV15&type=yy
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+http://139.214.176.208:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+https://migu.188766.xyz/?migutoken=8c26221abf3745d1ad01f27b7bdfb936&id=CCTV15&type=yy
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+http://139.214.176.73:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+https://migu.188766.xyz/?migutoken=d0981e46641135a473f39c5a9d5ca509&id=CCTV15&type=yy
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+https://migu.188766.xyz/?migutoken=d746cbdefc14cc5616495c27c50afec2&id=CCTV15&type=yy
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+https://live.catvod.com/live.php?id=cctv15
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://tu.dzpp.uk/tv/CCTV15.png" group-title="央视辽宁",CCTV-15音乐
+https://migu.188766.xyz/?migutoken=da35d716cb7adff2add966561e4b8b2b&id=CCTV15&type=yy
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.182:1234
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://139.214.176.195:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://rihou.cc:555/tv/[mg]CCTV-16
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://go.bkpcp.top/mg/cctv16
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://j.s.bkpcp.top/jj/cctv16
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://t.061899.xyz/tl/tl.php?id=cctv16
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://iptv.4666888.xyz/iptv2A.php?id=32
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://tvtj.jxwltx.com:8003/cctv5p.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://iptv.yzzdxc.cn:16666/rtp/239.37.1.21:5540
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://iptv.yzzdxc.cn:16666/rtp/239.37.1.22:5540
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://111.26.72.89:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://139.214.176.208:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tu.dzpp.uk/tv/CCTV16.png" group-title="央视辽宁",CCTV-16奥林匹克
+http://139.214.176.73:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.230:1234
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://139.214.176.195:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+https://migu.188766.xyz/?migutoken=a596c175a3467934450c42d496dd6641&id=CCTV17&type=yy
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://lihetl.com:9527/rtp/232.0.0.63:8686
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://www.lihetl.com:9527/rtp/232.0.0.63:8686
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.63:8686
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://rihou.cc:555/tv/[mg]CCTV-17
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://go.bkpcp.top/mg/cctv17
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://j.s.bkpcp.top/jj/cctv17
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://t.061899.xyz/tl/tl.php?id=cctv17
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://tvtj.jxwltx.com:8003/cctv17.m3u8
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+https://migu.188766.xyz/?migutoken=0fa3d96231c0611ea279e92932e2d36d&id=CCTV17&type=yy
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://175.170.46.69:8099/rtp/232.0.0.63:8686
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.63:8686
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://111.26.72.89:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+https://migu.188766.xyz/?migutoken=40e32e9065692d22dd5f41e14ea6c18d&id=CCTV17&type=yy
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+https://migu.188766.xyz/?migutoken=bc70995109561a7e44e2a6d240c1b6bc&id=CCTV17&type=yy
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://113.234.20.239:4000/rtp/232.0.0.63:8686
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://iptv.ayemovie.top:5555/rtp/232.0.0.63:8686
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://139.214.176.208:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://119.113.230.107:4000/rtp/232.0.0.63:8686
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+https://migu.188766.xyz/?migutoken=c8a0d744bee29ce250c8aa0417436302&id=CCTV17&type=yy
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+http://139.214.176.73:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+https://migu.188766.xyz/?migutoken=31a2b7f2b22da660bf0cc5a86998a394&id=CCTV17&type=yy
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+https://migu.188766.xyz/?migutoken=de91db50a94ac7f3538eea23db4cf1f1&id=CCTV17&type=yy
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tu.dzpp.uk/tv/CCTV17.png" group-title="央视辽宁",CCTV-17农业农村
+https://migu.188766.xyz/?migutoken=ad091f0d34648a5911882a19a16f55e9&id=CCTV17&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.171:1234
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://139.214.176.195:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://139.214.176.195:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=e81bfc1129aa49af56c1a7e1f8810266&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=ee1a1f0d7fd09a784b3f7fa78942884b&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://lihetl.com:9527/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://www.lihetl.com:9527/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://lihetl.com:9527/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://www.lihetl.com:9527/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://rihou.cc:555/tv/[mg]CCTV-5p
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://go.bkpcp.top/mg/cctv5p
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://j.s.bkpcp.top/jj/cctv5p
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://t.061899.xyz/tl/tl.php?id=cctv5p
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://smt.go-iptv.ggff.net/smart.php?id=cctv5plus&token=Goiptv
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://zb.hpc.tw/smtv.php?id=cctv5plus
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.232:5540
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.121:5540
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.225:5540
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=e45ef9e248325298eeaa19ff57301a94&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=4cb8ba0277fed5e59d7bbf6992ec0c00&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://175.170.46.69:8099/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://175.170.46.69:8099/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://111.26.72.89:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://111.26.72.89:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=3f3af04787056da1a6b1863120a95171&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=bbf3aa23ecdd29ac5a1fb66e31edb6bc&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=d571113f2b9daa02ca501bc2bba37c24&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=4a169c212039ec372ac031a550589930&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://113.234.20.239:4000/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://iptv.ayemovie.top:5555/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://113.234.20.239:4000/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://iptv.ayemovie.top:5555/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://139.214.176.208:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://139.214.176.208:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://119.113.230.107:4000/rtp/232.0.0.196:9210
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://119.113.230.107:4000/rtp/232.0.0.93:8750
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=320878979ac25ea16b8bf841b9e8c408&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=2cc22d3d6cbb518bda1fa0511b52a38e&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://139.214.176.73:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+http://139.214.176.73:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=6da9dd3c7d37210f738039f7b8434453&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=e0e465fd676646c4e33a92a77e7f7e81&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=015dac1ba88c65f57a7a9d1c8b707372&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=5594c13771eda0047e0b8d0c0921bc69&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://live.catvod.com/live.php?id=cctv5plus
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=0b3886af850071a8162f53ed77831b88&id=CCTV5&type=yy
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://tu.dzpp.uk/tv/CCTV5+.png" group-title="央视辽宁",CCTV5+体育赛事
+https://migu.188766.xyz/?migutoken=67736b223a5b665d69afb10857ac5363&id=CCTV5p&type=yy
+#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://tu.dzpp.uk/tv/CGTN.png" group-title="央视辽宁",CGTN-英语新闻
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.188:1234
+#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://tu.dzpp.uk/tv/CGTN.png" group-title="央视辽宁",CGTN-英语新闻
+http://lihetl.com:9527/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://tu.dzpp.uk/tv/CGTN.png" group-title="央视辽宁",CGTN-英语新闻
+http://www.lihetl.com:9527/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://tu.dzpp.uk/tv/CGTN.png" group-title="央视辽宁",CGTN-英语新闻
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://tu.dzpp.uk/tv/CGTN.png" group-title="央视辽宁",CGTN-英语新闻
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.31:5540
+#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://tu.dzpp.uk/tv/CGTN.png" group-title="央视辽宁",CGTN-英语新闻
+http://175.170.46.69:8099/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://tu.dzpp.uk/tv/CGTN.png" group-title="央视辽宁",CGTN-英语新闻
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://tu.dzpp.uk/tv/CGTN.png" group-title="央视辽宁",CGTN-英语新闻
+http://113.234.20.239:4000/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://tu.dzpp.uk/tv/CGTN.png" group-title="央视辽宁",CGTN-英语新闻
+http://iptv.ayemovie.top:5555/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://tu.dzpp.uk/tv/CGTN.png" group-title="央视辽宁",CGTN-英语新闻
+http://119.113.230.107:4000/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://tu.dzpp.uk/tv/CGTN纪录.png" group-title="央视辽宁",CGTN-纪录(国际版)
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.198:1234
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://tu.dzpp.uk/tv/CGTN纪录.png" group-title="央视辽宁",CGTN-纪录(国际版)
+http://lihetl.com:9527/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://tu.dzpp.uk/tv/CGTN纪录.png" group-title="央视辽宁",CGTN-纪录(国际版)
+http://www.lihetl.com:9527/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://tu.dzpp.uk/tv/CGTN纪录.png" group-title="央视辽宁",CGTN-纪录(国际版)
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://tu.dzpp.uk/tv/CGTN纪录.png" group-title="央视辽宁",CGTN-纪录(国际版)
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.31:5540
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://tu.dzpp.uk/tv/CGTN纪录.png" group-title="央视辽宁",CGTN-纪录(国际版)
+http://175.170.46.69:8099/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://tu.dzpp.uk/tv/CGTN纪录.png" group-title="央视辽宁",CGTN-纪录(国际版)
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://tu.dzpp.uk/tv/CGTN纪录.png" group-title="央视辽宁",CGTN-纪录(国际版)
+http://113.234.20.239:4000/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://tu.dzpp.uk/tv/CGTN纪录.png" group-title="央视辽宁",CGTN-纪录(国际版)
+http://iptv.ayemovie.top:5555/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://tu.dzpp.uk/tv/CGTN纪录.png" group-title="央视辽宁",CGTN-纪录(国际版)
+http://119.113.230.107:4000/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://tu.dzpp.uk/tv/CGTN俄语.png" group-title="央视辽宁",CGTN-俄语国际
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.28:1234
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://tu.dzpp.uk/tv/CGTN俄语.png" group-title="央视辽宁",CGTN-俄语国际
+http://lihetl.com:9527/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://tu.dzpp.uk/tv/CGTN俄语.png" group-title="央视辽宁",CGTN-俄语国际
+http://www.lihetl.com:9527/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://tu.dzpp.uk/tv/CGTN俄语.png" group-title="央视辽宁",CGTN-俄语国际
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://tu.dzpp.uk/tv/CGTN俄语.png" group-title="央视辽宁",CGTN-俄语国际
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.31:5540
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://tu.dzpp.uk/tv/CGTN俄语.png" group-title="央视辽宁",CGTN-俄语国际
+http://175.170.46.69:8099/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://tu.dzpp.uk/tv/CGTN俄语.png" group-title="央视辽宁",CGTN-俄语国际
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://tu.dzpp.uk/tv/CGTN俄语.png" group-title="央视辽宁",CGTN-俄语国际
+http://113.234.20.239:4000/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://tu.dzpp.uk/tv/CGTN俄语.png" group-title="央视辽宁",CGTN-俄语国际
+http://iptv.ayemovie.top:5555/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://tu.dzpp.uk/tv/CGTN俄语.png" group-title="央视辽宁",CGTN-俄语国际
+http://119.113.230.107:4000/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://tu.dzpp.uk/tv/CGTN西班牙语.png" group-title="央视辽宁",CGTN-西班牙语国际
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.6:1234
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://tu.dzpp.uk/tv/CGTN西班牙语.png" group-title="央视辽宁",CGTN-西班牙语国际
+http://lihetl.com:9527/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://tu.dzpp.uk/tv/CGTN西班牙语.png" group-title="央视辽宁",CGTN-西班牙语国际
+http://www.lihetl.com:9527/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://tu.dzpp.uk/tv/CGTN西班牙语.png" group-title="央视辽宁",CGTN-西班牙语国际
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://tu.dzpp.uk/tv/CGTN西班牙语.png" group-title="央视辽宁",CGTN-西班牙语国际
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.31:5540
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://tu.dzpp.uk/tv/CGTN西班牙语.png" group-title="央视辽宁",CGTN-西班牙语国际
+http://175.170.46.69:8099/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://tu.dzpp.uk/tv/CGTN西班牙语.png" group-title="央视辽宁",CGTN-西班牙语国际
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://tu.dzpp.uk/tv/CGTN西班牙语.png" group-title="央视辽宁",CGTN-西班牙语国际
+http://113.234.20.239:4000/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://tu.dzpp.uk/tv/CGTN西班牙语.png" group-title="央视辽宁",CGTN-西班牙语国际
+http://iptv.ayemovie.top:5555/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://tu.dzpp.uk/tv/CGTN西班牙语.png" group-title="央视辽宁",CGTN-西班牙语国际
+http://119.113.230.107:4000/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://tu.dzpp.uk/tv/CGTN阿拉伯语.png" group-title="央视辽宁",CGTN-阿拉伯语国际
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.43:1234
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://tu.dzpp.uk/tv/CGTN阿拉伯语.png" group-title="央视辽宁",CGTN-阿拉伯语国际
+http://lihetl.com:9527/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://tu.dzpp.uk/tv/CGTN阿拉伯语.png" group-title="央视辽宁",CGTN-阿拉伯语国际
+http://www.lihetl.com:9527/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://tu.dzpp.uk/tv/CGTN阿拉伯语.png" group-title="央视辽宁",CGTN-阿拉伯语国际
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://tu.dzpp.uk/tv/CGTN阿拉伯语.png" group-title="央视辽宁",CGTN-阿拉伯语国际
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.31:5540
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://tu.dzpp.uk/tv/CGTN阿拉伯语.png" group-title="央视辽宁",CGTN-阿拉伯语国际
+http://175.170.46.69:8099/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://tu.dzpp.uk/tv/CGTN阿拉伯语.png" group-title="央视辽宁",CGTN-阿拉伯语国际
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://tu.dzpp.uk/tv/CGTN阿拉伯语.png" group-title="央视辽宁",CGTN-阿拉伯语国际
+http://113.234.20.239:4000/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://tu.dzpp.uk/tv/CGTN阿拉伯语.png" group-title="央视辽宁",CGTN-阿拉伯语国际
+http://iptv.ayemovie.top:5555/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://tu.dzpp.uk/tv/CGTN阿拉伯语.png" group-title="央视辽宁",CGTN-阿拉伯语国际
+http://119.113.230.107:4000/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN法语NEW" tvg-name="CGTN法语NEW" tvg-logo="https://tu.dzpp.uk/tv/CGTN法语NEW.png" group-title="央视辽宁",CGTN-法语国际
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.8:1234
+#EXTINF:-1,tvg-id="CGTN法语NEW" tvg-name="CGTN法语NEW" tvg-logo="https://tu.dzpp.uk/tv/CGTN法语NEW.png" group-title="央视辽宁",CGTN-法语国际
+http://lihetl.com:9527/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN法语NEW" tvg-name="CGTN法语NEW" tvg-logo="https://tu.dzpp.uk/tv/CGTN法语NEW.png" group-title="央视辽宁",CGTN-法语国际
+http://www.lihetl.com:9527/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN法语NEW" tvg-name="CGTN法语NEW" tvg-logo="https://tu.dzpp.uk/tv/CGTN法语NEW.png" group-title="央视辽宁",CGTN-法语国际
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN法语NEW" tvg-name="CGTN法语NEW" tvg-logo="https://tu.dzpp.uk/tv/CGTN法语NEW.png" group-title="央视辽宁",CGTN-法语国际
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.31:5540
+#EXTINF:-1,tvg-id="CGTN法语NEW" tvg-name="CGTN法语NEW" tvg-logo="https://tu.dzpp.uk/tv/CGTN法语NEW.png" group-title="央视辽宁",CGTN-法语国际
+http://175.170.46.69:8099/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN法语NEW" tvg-name="CGTN法语NEW" tvg-logo="https://tu.dzpp.uk/tv/CGTN法语NEW.png" group-title="央视辽宁",CGTN-法语国际
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN法语NEW" tvg-name="CGTN法语NEW" tvg-logo="https://tu.dzpp.uk/tv/CGTN法语NEW.png" group-title="央视辽宁",CGTN-法语国际
+http://113.234.20.239:4000/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN法语NEW" tvg-name="CGTN法语NEW" tvg-logo="https://tu.dzpp.uk/tv/CGTN法语NEW.png" group-title="央视辽宁",CGTN-法语国际
+http://iptv.ayemovie.top:5555/rtp/232.0.0.9:8832
+#EXTINF:-1,tvg-id="CGTN法语NEW" tvg-name="CGTN法语NEW" tvg-logo="https://tu.dzpp.uk/tv/CGTN法语NEW.png" group-title="央视辽宁",CGTN-法语国际
+http://119.113.230.107:4000/rtp/232.0.0.9:8832
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="央视付费频道",央视文化精品
+http://139.214.176.195:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="央视付费频道",央视文化精品
+http://neuc.top:4023/rtp/232.0.0.56:1234
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="央视付费频道",央视文化精品
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.56:1234
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
+http://139.214.176.195:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
+http://neuc.top:4023/rtp/232.0.0.60:1234
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
+http://lihetl.com:9527/rtp/232.0.0.122:9290
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
+http://www.lihetl.com:9527/rtp/232.0.0.122:9290
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.122:9290
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.163:5540
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
+http://175.170.46.69:8099/rtp/232.0.0.122:9290
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.122:9290
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.60:1234
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
+http://113.234.20.239:4000/rtp/232.0.0.122:9290
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
+http://iptv.ayemovie.top:5555/rtp/232.0.0.122:9290
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
+http://119.113.230.107:4000/rtp/232.0.0.122:9290
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
+http://139.214.176.195:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
+http://neuc.top:4023/rtp/232.0.0.47:1234
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
+http://lihetl.com:9527/rtp/232.0.0.108:9288
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
+http://www.lihetl.com:9527/rtp/232.0.0.108:9288
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.108:9288
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.81:5540
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
+http://175.170.46.69:8099/rtp/232.0.0.108:9288
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.108:9288
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.47:1234
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
+http://113.234.20.239:4000/rtp/232.0.0.108:9288
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
+http://iptv.ayemovie.top:5555/rtp/232.0.0.108:9288
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
+http://119.113.230.107:4000/rtp/232.0.0.108:9288
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
+http://139.214.176.195:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
+http://neuc.top:4023/rtp/232.0.0.29:1234
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
+http://lihetl.com:9527/rtp/232.0.0.147:9132
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
+http://www.lihetl.com:9527/rtp/232.0.0.147:9132
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.147:9132
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.78:5540
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
+http://175.170.46.69:8099/rtp/232.0.0.147:9132
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.147:9132
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.29:1234
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
+http://113.234.20.239:4000/rtp/232.0.0.147:9132
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
+http://iptv.ayemovie.top:5555/rtp/232.0.0.147:9132
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
+http://119.113.230.107:4000/rtp/232.0.0.147:9132
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://139.214.176.195:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://neuc.top:4023/rtp/232.0.0.45:1234
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://lihetl.com:9527/rtp/232.0.0.177:9172
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://lihetl.com:9527/rtp/232.0.0.52:8610
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://www.lihetl.com:9527/rtp/232.0.0.177:9172
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://www.lihetl.com:9527/rtp/232.0.0.52:8610
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.177:9172
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.52:8610
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.114:5540
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://175.170.46.69:8099/rtp/232.0.0.177:9172
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://175.170.46.69:8099/rtp/232.0.0.52:8610
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.177:9172
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.52:8610
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.45:1234
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://113.234.20.239:4000/rtp/232.0.0.177:9172
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://113.234.20.239:4000/rtp/232.0.0.52:8610
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://iptv.ayemovie.top:5555/rtp/232.0.0.177:9172
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://iptv.ayemovie.top:5555/rtp/232.0.0.52:8610
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://119.113.230.107:4000/rtp/232.0.0.177:9172
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://119.113.230.107:4000/rtp/232.0.0.52:8610
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
+http://139.214.176.195:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
+http://neuc.top:4023/rtp/232.0.0.38:1234
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
+http://lihetl.com:9527/rtp/232.0.0.204:9226
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
+http://www.lihetl.com:9527/rtp/232.0.0.204:9226
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.204:9226
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.82:5540
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
+http://175.170.46.69:8099/rtp/232.0.0.204:9226
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.204:9226
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.38:1234
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
+http://113.234.20.239:4000/rtp/232.0.0.204:9226
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
+http://iptv.ayemovie.top:5555/rtp/232.0.0.204:9226
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
+http://119.113.230.107:4000/rtp/232.0.0.204:9226
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视付费频道",女性时尚
+http://139.214.176.195:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视付费频道",女性时尚
+http://neuc.top:4023/rtp/232.0.0.51:1234
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视付费频道",女性时尚
+http://lihetl.com:9527/rtp/232.0.0.120:8858
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视付费频道",女性时尚
+http://www.lihetl.com:9527/rtp/232.0.0.120:8858
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视付费频道",女性时尚
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.120:8858
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视付费频道",女性时尚
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.69:5540
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视付费频道",女性时尚
+http://175.170.46.69:8099/rtp/232.0.0.120:8858
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视付费频道",女性时尚
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.120:8858
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视付费频道",女性时尚
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.51:1234
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视付费频道",女性时尚
+http://113.234.20.239:4000/rtp/232.0.0.120:8858
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视付费频道",女性时尚
+http://iptv.ayemovie.top:5555/rtp/232.0.0.120:8858
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视付费频道",女性时尚
+http://119.113.230.107:4000/rtp/232.0.0.120:8858
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="央视付费频道",高尔夫
+http://139.214.176.195:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="央视付费频道",高尔夫
+http://neuc.top:4023/rtp/232.0.0.243:1234
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="央视付费频道",高尔夫
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.243:1234
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="央视付费频道",高尔夫
+https://mgev.188766.xyz/play?migutoken=12a8945d5863cc18360b020b3d098e66&id=ZmLTTNDSNi0OI3BKtEi0%2FomqPTfEDtHYXBUgCNpAk2ZkStKxWYRamDGvka%2FmW1wEzg3vEH0muSFf%2BuKJ2h2TAfbbXX%2Fm2AEGODo6O9mDc%2FYCjsYnUSk4jkaG0CuHZS17VIOSYjubGSSD%2BE1UvNYJ2CERlCUwVcY3Y4PQwyMquwfuVn1xLTKabov04C%2BuFJMSQ0L78mzBqH2WF7nf5xvV4MZAGBn3f45L8qj%2Fy9%2BGYhAg1P%2FPP33053IXhRHmDEHtms2oDK4zfw%2BH%2F7%2BPAa%2B42EhTY97LlcGP3jdvtakinBrGbcSd5kQM8MQUYxtj7nzesQD9Wp2TFaZFkXkIZVPyxaNBrS8YFCJwc9cMnuXTn4KZnQ93Mlc1pdlh3Yemjxs8GMUCZ2G2v0uInPeu1Hre%2Fw%3D%3D&name=04wFaqi37rUOuFNUipzbM0P6bohuO1cPiwyL8m5XIG2N%2FIlhJmOgG32yNy54XzO8N8PCBNBVcXMBfNC98IbVHatFJXsi9EBTeegCheh%2BxZLnrXYCNm33dmV%2FlRzFMtOr4Qy0FfwUQmJqqMR%2Bo9NClw%3D%3D
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
+http://139.214.176.195:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
+http://neuc.top:4023/rtp/232.0.0.52:1234
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
+http://lihetl.com:9527/rtp/232.0.0.90:9286
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
+http://www.lihetl.com:9527/rtp/232.0.0.90:9286
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.90:9286
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.80:5540
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
+http://175.170.46.69:8099/rtp/232.0.0.90:9286
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.90:9286
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.52:1234
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
+http://113.234.20.239:4000/rtp/232.0.0.90:9286
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
+http://iptv.ayemovie.top:5555/rtp/232.0.0.90:9286
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
+http://119.113.230.107:4000/rtp/232.0.0.90:9286
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/世界地理.png" group-title="央视付费频道",世界地理
+http://neuc.top:4023/rtp/232.0.0.63:1234
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视付费频道",兵器科技
+http://139.214.176.195:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视付费频道",兵器科技
+http://neuc.top:4023/rtp/232.0.0.58:1234
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视付费频道",兵器科技
+http://lihetl.com:9527/rtp/232.0.0.121:8882
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视付费频道",兵器科技
+http://www.lihetl.com:9527/rtp/232.0.0.121:8882
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视付费频道",兵器科技
+http://xiaoya.ayemovie.top:5555/rtp/232.0.0.121:8882
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视付费频道",兵器科技
+http://175.170.46.69:8099/rtp/232.0.0.121:8882
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视付费频道",兵器科技
+http://c.qrjcwy.eu.org:8099/rtp/232.0.0.121:8882
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视付费频道",兵器科技
+http://itv.ghwxhouse.com:8089/rtp/232.0.0.58:1234
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视付费频道",兵器科技
+http://113.234.20.239:4000/rtp/232.0.0.121:8882
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视付费频道",兵器科技
+http://iptv.ayemovie.top:5555/rtp/232.0.0.121:8882
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视付费频道",兵器科技
+http://119.113.230.107:4000/rtp/232.0.0.121:8882
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卫生健康.png" group-title="央视付费频道",卫生健康
+http://139.214.176.195:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电视指南.png" group-title="央视付费频道",电视指南
+http://139.214.176.195:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电视指南.png" group-title="央视付费频道",电视指南
+http://iptv.yzzdxc.cn:16666/rtp/239.37.0.115:5540
 
 ############################
 ###### 🇭🇰 NOW 体育 ######
