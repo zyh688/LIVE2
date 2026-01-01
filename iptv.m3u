@@ -1,1 +1,224 @@
+#EXTM3U
+#EXTINF:-1 group-title="EVENT 25/MEI/2025" tvg-logo="https://iili.io/3PZ4XcB.md.png",001 DONASI
+https://drive.google.com/uc?export=download&id=1__u-jSdyhf2jkCha8BiHas8n22A_6VS1&usp
+#EXTINF:-1 group-title="EVENT 25/MEI/2025" tvg-logo="https://iili.io/3iQAsN1.md.png",002 INFO UPDATE
+https://drive.google.com/uc?export=download&id=1_nmlcBj-v8C1nxbQqeOZUOaav4qFFlNd&usp
+#EXTINF:-1 group-title="MOVIES/SERIES KBTRTV" tvg-logo="https://iili.io/3iDsWcN.png",002 REQUEST
+https://drive.google.com/uc?export=download&id=1a95OvU0Djp7jhdtG_oRaimh2WoNgNF-y&usp
 
+
+<=================== INDONESIA =============================>
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://lingkartv.com/assets/img/logo-square.png",LINGKARTV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSVdhaMAbDI7t7HJv8iWxq3_ZvMcWQYQlsQ&usqp=CAU",JITV HD
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+
+<============================ Sports ========================>
+#EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+#EXTINF:-1 ,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-logo="https://iili.io/JmoKxjV.png",ABC
+https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/f9df390f-1207-4bc5-b2cf-0e97ccac135d/0.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-logo="https://iili.io/JmoCZ5g.png",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE & DOCUMENTARY" tvg-logo="https://iili.io/JmoCN07.png",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
+#EXTINF:-1 ,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltEXMZMIQR4bLtcC9ESqtNzhoF-D4ud3ecg&s",BIZNET KIDS HD
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltEXMZMIQR4bLtcC9ESqtNzhoF-D4ud3ecg&s",BIZNET KIDS HD
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png",Siar
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg",AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg",FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg",LEAD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg",ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+
+<=================== SOUTH KOREA =============================>
+#EXTINF:-1 ,like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA" tvg-logo="https://iili.io/JmoiJMN.png",SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/k%20movies.png",new k-movies
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+<=================== ITALIA =============================>
+#EXTINF:-1 group-title="SINGAPURA" tvg-logo="https://cms.cignal.tv/Upload/Images/CNA%20LOGO%20-horizontal%20-%20on%20light%20background.png",Channel News Asia
+https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
+#EXTINF:-1 group-title="SINGAPURA" tvg-logo="https://i.imgur.com/Dt0kA7e.png",Oktolidays
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+#EXTINF:-1 group-title="SINGAPURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png",Mediacorp Entertainment English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+#EXTINF:-1 group-title="SINGAPURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png",Mediacorp Entertainment Tamil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://static.12core.net/media/content/stream/c69f95b1-ad0f-4e90-93bb-236dfcde3d9c/00e3797e1bbd2dd719239a849d42b546",4K Travel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://png.pngtree.com/template/20220424/ourmid/pngtree-bollywood-cinema-cinematography-banner-logo-brochure-image_1179540.jpg",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+#EXTINF:-1 ,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTINF:-1 ,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+#EXTINF:-1 group-title="News" tvg-logo="https://w7.pngwing.com/pngs/494/982/png-transparent-united-states-voice-of-america-internet-radio-voa-amharic-broadcasting-united-states-text-logo-united-states.png",Voice Of America
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://iili.io/JMp3DJf.png",TVRI Parlemen
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="RELIGI",LIVE MAKKAH
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+#EXTINF:-1 group-title="RELIGI",TV9 HD
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 group-title="Christian Channels" tvg-logo="https://e7.pngegg.com/pngimages/243/547/png-clipart-catholictv-television-religious-broadcasting-logo-brand-woodlawn-cemetery-tampa-catholictv-television.png",Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_4.m3u8
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHeeejMBNPU0qFoo-J9Vg8IaaceROkNndrg&s",JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://iili.io/Jbtnh2j.png",Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://iili.io/Jbto3jS.png",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://iili.io/JbtnA1s.png",Semarang TV
+http://116.254.112.74:80/hls/cakralive.m3u8
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://iili.io/JbtnwkQ.png",Banten TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://iili.io/JbtnSCF.png",BMS TV
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://iili.io/JbtnPvR.png",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHeeejMBNPU0qFoo-J9Vg8IaaceROkNndrg&s",JITV Jogja
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1BWb.png",TVRI Aceh
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1x0Q.png",TVRI Bali
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1zgV.png",TVRI Bangka Belitung
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1TdB.png",TVRI Bengkulu
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1Ae1.png",TVRI Gorontalo
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF17zg.png",TVRI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1RmF.png",TVRI Jambi
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1YXa.png",TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1GdN.png",TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF101R.png",TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1M7I.png",TVRI Kalimantan Barat
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1WmX.png",TVRI Kalimantan Selatan
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1hIn.png",TVRI Kalimantan Tengah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1jXs.png",TVRI Kalimantan Timur
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1krl.png",TVRI Lampung
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1wLG.png",TVRI Maluku
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1e14.png",TVRI NTB
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1gp9.png",TVRI NTT
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1822.png",TVRI Papua
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/d9HAivV.png",TVRI Papua Barat
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1S7S.png",TVRI Riau
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1PLb.png",TVRI Sulawesi Barat
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF16hu.png",TVRI Sulawesi Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1t2V.png",TVRI Sulawesi Tengah
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1Kbe.png",TVRI Sulawesi Tenggara
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1Fe9.png",TVRI Sulawesi Utara
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1357.png",TVRI Sumatera Barat
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF12JS.png",TVRI Sumatera Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:-1 group-title="TVRI Daerah" tvg-logo="https://iili.io/JmF1oqx.png",TVRI Sumatera Utara
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn6.aptoide.com/imgs/6/c/e/6ce08d99cf108744c63e6ba72aa941a3_icon.png",Hard Rock FM Bandung
+http://stream.radiojar.com/fnex9bkswk8uv
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn6.aptoide.com/imgs/6/c/e/6ce08d99cf108744c63e6ba72aa941a3_icon.png",Hard Rock FM Surabaya
+http://stream.radiojar.com/yg8ne2v80k8uv
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn6.aptoide.com/imgs/6/c/e/6ce08d99cf108744c63e6ba72aa941a3_icon.png",Hard Rock FM Bali
+http://stream.radiojar.com/9k28wsbu5k8uv
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://iili.io/JmS5zFe.png",Pro 5 RRI Makassar
+https://stream.streamaudio.de:8000/teststream3
